@@ -1,0 +1,29 @@
+public class AccountTest{
+
+
+	public static void main(String[] args){
+		Account kenny = new Account("kenny", 1000);
+		double balance = kenny.getBalance();
+		System.out.println(balance);
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

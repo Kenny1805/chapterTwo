@@ -1,0 +1,52 @@
+private class MyAccount{
+
+//instance variable
+	public class MyAccountName;
+//constructor used to create new object
+	public MyAccountName(String accountName){
+			this.MyAccountName=MyAccountName;
+			}
+		public void setMyAccountName(String MyaccountName){
+			this.MyAccountName=MyAccountName;
+			}
+		public void getMyAccountName(){
+		return MyAccountName;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

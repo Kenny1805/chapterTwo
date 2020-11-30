@@ -1,0 +1,42 @@
+public class Account{
+
+//instance variables
+
+private double balance;
+private String accountName;
+private byte pin;
+
+//constructor used to create new objects
+
+public Account(double balance, String accountName, byte pin){
+	this.balance=balance;
+	this.accountName=accountName;
+	this.pin = pin;
+}
+
+public void depositAmount(double depositAmount){
+	this.balance = balance + depositAmount;
+}
+
+public int getBalance(){
+	return balance;
+}
+public void setAccountName(String accountName){
+	this.accountName = accountName;
+}
+
+
+public String getAccountName(){
+	return accountName;
+}
+
+
+
+
+
+
+
+
+
+
+}

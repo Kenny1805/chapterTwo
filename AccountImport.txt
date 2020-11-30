@@ -1,0 +1,23 @@
+import java.util.Scanner{
+
+	public class Account{
+	public static void main(String [] args){
+
+	Scanner = new Scanner;(system.in);
+	system.out.println("My new name is Kenny");
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+}
+	
